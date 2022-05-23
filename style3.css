@@ -1,0 +1,62 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.container 
+{
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    justify-content:space-around;
+    flex-wrap: wrap;
+    margin-top: 80px;
+}
+.card1 img 
+{
+    width: 520px;
+}
+.card2 img 
+{
+    width: 450px;
+}
+.card1
+ {
+     width: 525px;
+    margin: 10px;
+}
+.card2 
+{
+    width: 458px;
+    margin: 10px;
+}
+h3
+{
+    text-align: center;
+    padding: 5px;
+}
+.button 
+{
+    text-align: center;
+    margin: 20px;
+}
+.button button
+{
+    padding: 7px;
+    background-color:rgb(241, 33, 33);
+    color: rgb(254, 249, 249);
+    border-radius: 3px;
+    border-style: none;
+    font-size: 20px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p
+{
+    margin: 5px;
+    padding: 5px;
+    font-size: 16px;
+}
+.button button:hover
+{
+    background-color: blueviolet;
+    cursor: pointer;
+}
